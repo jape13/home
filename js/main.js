@@ -205,82 +205,19 @@ $(function() {
             color: '#5f01d1',
             placeholder: 'Yahoo~'
         }, {
-            name: 'magi',
-            icon: 'img/magi-xs.png',
-            searchlink: 'https://magi.com/search',
-            searchname: 'q',
-            color: 'black',
-            placeholder: 'Mag[i]...'
-        }, {
             name: 'sougou',
             icon: 'img/sougou-xs.png',
             searchlink: 'https://www.sogou.com/web',
             searchname: 'query',
             color: '#f94c18',
             placeholder: '搜狗搜索...'
-        }, {
-            name: 'wechat',
-            icon: 'img/wechat-xs.png',
-            searchlink: 'https://weixin.sogou.com/weixin',
-            searchname: 'query',
-            color: '#2ca43a',
-            placeholder: '搜微信文章...'
-        }, {
-            name: 'quark',
-            icon: 'img/quark-xs.png',
-            searchlink: 'https://quark.sm.cn/s',
-            searchname: 'q',
-            color: '#6182f6',
-            placeholder: '夸克搜索...'
-        }, {
-            name: 'taobao',
-            icon: 'img/taobao-xs.png',
-            searchlink: 'https://s.taobao.com/search',
-            searchname: 'q',
-            color: '#FF5B00',
-            placeholder: '淘，我喜欢...'
-        }, {
-            name: 'jingdong',
-            icon: 'img/jingdong-xs.png',
-            searchlink: 'https://search.jd.com/Search',
-            searchname: 'keyword',
-            color: '#F30213',
-            placeholder: '多，快，好，省...'
-        }, {
-            name: 'bilibili',
-            icon: 'img/bilibili-xs.png',
-            searchlink: 'https://search.bilibili.com/all',
-            searchname: 'keyword',
-            color: '#e47494',
-            placeholder: 'b站是一个学习网站...'
-        }, {
+        },  {
             name: 'github',
             icon: 'img/github-xs.png',
             searchlink: 'https://github.com/search',
             searchname: 'q',
             color: '#24292e',
-            placeholder: '全球最大的开源社区...'
-        }, {
-            name: 'toutiao',
-            icon: 'img/toutiao-xs.png',
-            searchlink: 'https://m.toutiao.com/search',
-            searchname: 'keyword',
-            color: '#ed2f28',
-            placeholder: '搜今日头条...'
-        }, {
-            name: 'weibo',
-            icon: 'img/weibo-xs.png',
-            searchlink: 'https://s.weibo.com/weibo',
-            searchname: 'q',
-            color: '#e6162d',
-            placeholder: '搜微博...'
-        }, {
-            name: 'zhihu',
-            icon: 'img/zhihu-xs.png',
-            searchlink: 'https://www.zhihu.com/search',
-            searchname: 'q',
-            color: '#1087eb',
-            placeholder: '我们都是有问题的人...'
+            placeholder: '全球最大的男性交友社区...'
         }, {
             name: 'kuaidi',
             icon: 'img/kuaidi-xs.png',

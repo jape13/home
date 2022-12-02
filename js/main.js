@@ -330,9 +330,19 @@ if (time < 24) {
 if (time < 18) {
     document.getElementById("title").innerHTML = "Hao502导航简洁版 | 下午好";
 }
+
+if (time < 13) {
+    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 中午好";
+}
+
 if (time < 12) {
+    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 上午好";
+}
+
+if (time < 9) {
     document.getElementById("title").innerHTML = "Hao502导航简洁版 | 早上好";
 }
+
 if (time < 5) {
     document.getElementById("title").innerHTML = "Hao502导航简洁版 | 又熬夜了";
 }

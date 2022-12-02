@@ -76,15 +76,15 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: 'Hao502导航',
+                name: 'Hao502',
                 link: 'https://hao502.com',
                 box_shadow: '#F18033',
                 icon: 'img/daohang.png',
             }, {
-                name: '酷安',
-                link: 'https://www.coolapk.com',
+                name: '不开VIP',
+                link: 'https://不开vip.com',
                 box_shadow: '#11B063',
-                icon: 'img/coolapk.png',
+                icon: 'img/vip.png',
             }, {
                 name: 'Via插件',
                 link: 'http://via-app.cn',

@@ -101,10 +101,10 @@ $(function() {
                 box_shadow: '#00A0E9',
                 icon: 'img/dog.png',
             }, {
-                name: '小米商城',
-                link: 'https://m.mi.com/',
-                box_shadow: '#F57923',
-                icon: 'img/mi.png',
+                name: '毕方铺',
+                link: 'https://www.iizhi.cn/',
+                box_shadow: '#AC6E2F',
+                icon: 'img/bi.png',
             }, {
                 name: 'unsplash',
                 link: 'https://unsplash.com/',

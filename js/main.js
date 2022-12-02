@@ -76,10 +76,10 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: '开发日志',
-                link: 'https://kksan.top/f5404b68deeb4634b39dac0bc67ec693',
+                name: 'Hao502导航',
+                link: 'https://hao502.com',
                 box_shadow: '#F18033',
-                icon: 'img/log.png',
+                icon: 'img/daohang.png',
             }, {
                 name: '酷安',
                 link: 'https://www.coolapk.com',

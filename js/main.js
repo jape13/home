@@ -96,10 +96,10 @@ $(function() {
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
             }, {
-                name: '知乎',
-                link: 'https://www.zhihu.com/',
-                box_shadow: '#0078D8',
-                icon: 'img/zhihulogo.png',
+                name: '电影狗',
+                link: 'https://www.dianyinggou.com/',
+                box_shadow: '#00A0E9',
+                icon: 'img/dog.png',
             }, {
                 name: '小米商城',
                 link: 'https://m.mi.com/',

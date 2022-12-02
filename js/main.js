@@ -242,7 +242,7 @@ $(function() {
                     $('#Select').css('color', search.data[i].color); //选择器
                     $('#nav').css('display', 'none');
                     $('#folder').css('display', 'block');
-                    document.getElementById("Select").innerHTML = "<hr>书签 <img src='img/search-change.svg?v=2ae7ab8'>";
+                    document.getElementById("Select").innerHTML = "<hr>推荐 <img src='img/search-change.svg?v=2ae7ab8'>";
                     $("#inputText").attr("placeholder", search.data[i].placeholder);
                     $("#form").attr("action", search.data[i].searchlink);
                     $("#inputText").attr("name", search.data[i].searchname);

@@ -86,10 +86,10 @@ $(function() {
                 box_shadow: '#11B063',
                 icon: 'img/vip.png',
             }, {
-                name: 'Via插件',
-                link: 'http://via-app.cn',
+                name: '云商城',
+                link: 'https://shop.hao502.com',
                 box_shadow: '#FA7199',
-                icon: 'img/via.png',
+                icon: 'img/shangcheng.png',
             }, {
                 name: '今日热榜',
                 link: 'https://tophub.today/',

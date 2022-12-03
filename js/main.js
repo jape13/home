@@ -146,10 +146,10 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/shandian.png',
             }, {
-                name: '数字尾巴',
-                link: 'https://www.dgtle.com/',
-                box_shadow: '#62677b',
-                icon: 'img/shuziweiba.png',
+                name: '黑猫投诉',
+                link: 'https://tousu.sina.cn/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/mao.png',
             }, {
                 name: '疫情跟踪',
                 link: 'https://app.21jingji.com/html/2020yiqing/',

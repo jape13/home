@@ -156,10 +156,10 @@ $(function() {
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
-                name: '疫情辟谣',
-                link: 'https://vp.fact.qq.com/home',
-                box_shadow: '#00A0E9',
-                icon: 'img/true.png',
+                name: '诊疗手册',
+                link: 'https://www.msdmanuals.cn/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/ce.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {

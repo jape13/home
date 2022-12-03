@@ -151,15 +151,10 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/poki.png',
             }, {
-                name: '疫情跟踪',
-                link: 'https://app.21jingji.com/html/2020yiqing/',
-                box_shadow: '#7C5DC7',
-                icon: 'img/ding.png',
-            }, {
                 name: '诊疗手册',
                 link: 'https://www.msdmanuals.cn/',
-                box_shadow: '#2C2C2C',
-                icon: 'img/ce.png',
+                box_shadow: '#7C5DC7',
+                icon: 'img/mo.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {

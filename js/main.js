@@ -203,7 +203,7 @@ $(function() {
             searchlink: 'https://search.yahoo.com/search',
             searchname: 'p',
             color: '#5f01d1',
-            placeholder: 'Yahoo~'
+            placeholder: '请确保网络正常~'
         }, {
             name: 'sougou',
             icon: 'img/sougou-xs.png',

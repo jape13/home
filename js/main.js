@@ -121,11 +121,6 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/gou.png',
             }, {
-                name: 'doyoudo',
-                link: 'https://www.doyoudo.com/',
-                box_shadow: '#62677b',
-                icon: 'img/do.png',
-            }, {
                 name: '软仓',
                 link: 'https://www.ruancang.net/',
                 box_shadow: '#2C2C2C',
@@ -135,6 +130,11 @@ $(function() {
                 link: 'http://www.kinhdown.com/',
                 box_shadow: '#2C2C2C',
                 icon: 'img/shandian.png',
+            }, {
+                name: 'doyoudo',
+                link: 'https://www.doyoudo.com/',
+                box_shadow: '#62677b',
+                icon: 'img/do.png',
             }, {
                 name: 'iconfont',
                 link: 'https://www.iconfont.cn/',

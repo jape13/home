@@ -141,10 +141,10 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/cang.png',
             }, {
-                name: '小众软件',
-                link: 'https://www.appinn.com/',
-                box_shadow: '#3279ea',
-                icon: 'img/xiaozhong.png',
+                name: 'KinhDown',
+                link: 'http://www.kinhdown.com/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/shandian.png',
             }, {
                 name: '数字尾巴',
                 link: 'https://www.dgtle.com/',

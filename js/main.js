@@ -98,7 +98,7 @@ $(function() {
             }, {
                 name: '电影狗',
                 link: 'https://www.dianyinggou.com/',
-                box_shadow: '#00A0E9',
+                box_shadow: '#62677b',
                 icon: 'img/dog.png',
             }, {
                 name: '毕方铺',

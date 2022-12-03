@@ -77,17 +77,17 @@ $(function() {
         var bookmark = {
             data: [{
                 name: 'Hao502',
-                link: 'https://hao502.com',
+                link: 'https://hao502.com/',
                 box_shadow: '#3279ea',
                 icon: 'img/daohang.png',
             }, {
                 name: '不开VIP',
-                link: 'https://不开vip.com',
+                link: 'https://不开vip.com/',
                 box_shadow: '#D7191A',
                 icon: 'img/vip.png',
             }, {
                 name: '云商城',
-                link: 'https://shop.hao502.com',
+                link: 'https://shop.hao502.com/',
                 box_shadow: '#F57923',
                 icon: 'img/shangcheng.png',
             }, {

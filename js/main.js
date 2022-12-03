@@ -96,6 +96,16 @@ $(function() {
                 box_shadow: '#F2584A',
                 icon: 'img/headline.png',
             }, {
+                name: '黑猫投诉',
+                link: 'https://tousu.sina.cn/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/mao.png',
+            }, {
+                name: '虫部落',
+                link: 'https://www.chongbuluo.com/',
+                box_shadow: '#62677b',
+                icon: 'img/chong.png',
+            }, {
                 name: '电影狗',
                 link: 'https://www.dianyinggou.com/',
                 box_shadow: '#62677b',
@@ -105,21 +115,6 @@ $(function() {
                 link: 'https://www.iizhi.cn/',
                 box_shadow: '#AC6E2F',
                 icon: 'img/bi.png',
-            }, {
-                name: 'iconfont',
-                link: 'https://www.iconfont.cn/',
-                box_shadow: '#2C2C2C',
-                icon: 'img/icon.png',
-            }, {
-                name: '公众号',
-                link: 'https://mp.weixin.qq.com/',
-                box_shadow: '#37bf4c',
-                icon: 'img/vx.png',
-            }, {
-                name: '虫部落',
-                link: 'https://www.chongbuluo.com/',
-                box_shadow: '#62677b',
-                icon: 'img/chong.png',
             }, {
                 name: '狗狗查询',
                 link: 'https://www.ggcx.com/',
@@ -131,11 +126,6 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/do.png',
             }, {
-                name: 'POKI',
-                link: 'https://poki.com/',
-                box_shadow: '#62677b',
-                icon: 'img/poki.png',
-            }, {
                 name: '软仓',
                 link: 'https://www.ruancang.net/',
                 box_shadow: '#2C2C2C',
@@ -146,10 +136,20 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/shandian.png',
             }, {
-                name: '黑猫投诉',
-                link: 'https://tousu.sina.cn/',
+                name: 'iconfont',
+                link: 'https://www.iconfont.cn/',
                 box_shadow: '#2C2C2C',
-                icon: 'img/mao.png',
+                icon: 'img/icon.png',
+            }, {
+                name: '公众号',
+                link: 'https://mp.weixin.qq.com/',
+                box_shadow: '#37bf4c',
+                icon: 'img/vx.png',
+            }, {
+                name: 'POKI',
+                link: 'https://poki.com/',
+                box_shadow: '#62677b',
+                icon: 'img/poki.png',
             }, {
                 name: '疫情跟踪',
                 link: 'https://app.21jingji.com/html/2020yiqing/',

@@ -126,10 +126,10 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/gou.png',
             }, {
-                name: 'CSDN',
-                link: 'https://www.csdn.net/',
-                box_shadow: '#c5000a',
-                icon: 'img/csdn.png',
+                name: 'doyoudo',
+                link: 'https://www.doyoudo.com/',
+                box_shadow: '#62677b',
+                icon: 'img/do.png',
             }, {
                 name: 'XDA',
                 link: 'https://www.xda-developers.com/',

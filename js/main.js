@@ -189,7 +189,7 @@ $(function() {
             searchlink: 'https://www.google.com/search',
             searchname: 'q',
             color: '#4285f4',
-            placeholder: '咕噜咕噜...'
+            placeholder: '请确保网络正常...'
         }, {
             name: 'bing',
             icon: 'img/bing-xs.png',

@@ -111,10 +111,10 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/icon.png',
             }, {
-                name: '豆瓣',
-                link: 'https://m.douban.com/',
+                name: '公众号',
+                link: 'https://mp.weixin.qq.com/',
                 box_shadow: '#37bf4c',
-                icon: 'img/douban.png',
+                icon: 'img/vx.png',
             }, {
                 name: '虎扑',
                 link: 'https://www.hupu.com/',

@@ -106,15 +106,15 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/chong.png',
             }, {
-                name: '电影狗',
-                link: 'https://www.dianyinggou.com/',
-                box_shadow: '#62677b',
-                icon: 'img/dog.png',
-            }, {
                 name: '毕方铺',
                 link: 'https://www.iizhi.cn/',
                 box_shadow: '#AC6E2F',
                 icon: 'img/bi.png',
+            }, {
+                name: '电影狗',
+                link: 'https://www.dianyinggou.com/',
+                box_shadow: '#62677b',
+                icon: 'img/dog.png',
             }, {
                 name: '狗狗查询',
                 link: 'https://www.ggcx.com/',

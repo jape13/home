@@ -111,6 +111,11 @@ $(function() {
                 box_shadow: '#AC6E2F',
                 icon: 'img/bi.png',
             }, {
+                name: '电影狗',
+                link: 'https://www.dianyinggou.com/',
+                box_shadow: '#62677b',
+                icon: 'img/dog.png',
+            }, {
                 name: '狗狗查询',
                 link: 'https://www.ggcx.com/',
                 box_shadow: '#62677b',
@@ -125,6 +130,11 @@ $(function() {
                 link: 'http://www.kinhdown.com/',
                 box_shadow: '#2C2C2C',
                 icon: 'img/shandian.png',
+            }, {
+                name: 'doyoudo',
+                link: 'https://www.doyoudo.com/',
+                box_shadow: '#62677b',
+                icon: 'img/do.png',
             }, {
                 name: 'iconfont',
                 link: 'https://www.iconfont.cn/',
@@ -145,16 +155,6 @@ $(function() {
                 link: 'https://www.msdmanuals.cn/',
                 box_shadow: '#7C5DC7',
                 icon: 'img/mo.png',
-            }, {
-                name: 'doyoudo',
-                link: 'https://www.doyoudo.com/',
-                box_shadow: '#62677b',
-                icon: 'img/do.png',
-            }, {
-                name: '电影狗',
-                link: 'https://www.dianyinggou.com/',
-                box_shadow: '#62677b',
-                icon: 'img/dog.png',
             }]
         }
         for (var i = 0; i < bookmark.data.length; i++) {

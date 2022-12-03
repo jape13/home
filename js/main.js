@@ -106,7 +106,7 @@ $(function() {
                 box_shadow: '#AC6E2F',
                 icon: 'img/bi.png',
             }, {
-                name: '阿里图标',
+                name: 'iconfont',
                 link: 'https://www.iconfont.cn/',
                 box_shadow: '#2C2C2C',
                 icon: 'img/icon.png',

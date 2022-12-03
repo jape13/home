@@ -131,10 +131,10 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/do.png',
             }, {
-                name: 'XDA',
-                link: 'https://www.xda-developers.com/',
-                box_shadow: '#AC6E2F',
-                icon: 'img/xda.png',
+                name: 'POKI',
+                link: 'https://poki.com/',
+                box_shadow: '#62677b',
+                icon: 'img/poki.png',
             }, {
                 name: '少数派',
                 link: 'https://sspai.com/',

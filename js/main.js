@@ -116,10 +116,10 @@ $(function() {
                 box_shadow: '#37bf4c',
                 icon: 'img/vx.png',
             }, {
-                name: '虎扑',
-                link: 'https://www.hupu.com/',
-                box_shadow: '#c01d2f',
-                icon: 'img/hupu.png',
+                name: '虫部落',
+                link: 'https://www.chongbuluo.com/',
+                box_shadow: '#62677b',
+                icon: 'img/chong.png',
             }, {
                 name: '斗鱼',
                 link: 'https://www.douyu.com/',

@@ -136,10 +136,10 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/poki.png',
             }, {
-                name: '少数派',
-                link: 'https://sspai.com/',
-                box_shadow: '#D7191A',
-                icon: 'img/sspai.png',
+                name: '软仓',
+                link: 'https://www.ruancang.net/',
+                box_shadow: '#2C2C2C',
+                icon: 'img/cang.png',
             }, {
                 name: '小众软件',
                 link: 'https://www.appinn.com/',

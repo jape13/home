@@ -121,10 +121,10 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/chong.png',
             }, {
-                name: '斗鱼',
-                link: 'https://www.douyu.com/',
-                box_shadow: '#fe7700',
-                icon: 'img/douyu.png',
+                name: '狗狗查询',
+                link: 'https://www.ggcx.com/',
+                box_shadow: '#62677b',
+                icon: 'img/gou.png',
             }, {
                 name: 'CSDN',
                 link: 'https://www.csdn.net/',

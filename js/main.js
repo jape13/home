@@ -83,12 +83,12 @@ $(function() {
             }, {
                 name: '大流量卡',
                 link: 'https://h5.lot-ml.com/ProductEn/Index/f6f4a01144bee6d8',
-                box_shadow: '#D7191A',
+                box_shadow: '#9f5aff',
                 icon: 'img/vip.png',
             }, {
                 name: 'X助手',
                 link: 'https://udid.ios298.cn/',
-                box_shadow: '#F57923',
+                box_shadow: '#00d1ff',
                 icon: 'img/shangcheng.png',
             }, {
                 name: '今日热榜',

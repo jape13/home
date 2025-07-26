@@ -76,18 +76,18 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: 'Hao502',
-                link: 'https://hao502.com/',
+                name: 'X导航',
+                link: 'https://x.ios298.cn/',
                 box_shadow: '#3279ea',
                 icon: 'img/daohang.png',
             }, {
-                name: '不开VIP',
-                link: 'https://不开vip.com/',
+                name: '大流量卡',
+                link: 'https://h5.lot-ml.com/ProductEn/Index/f6f4a01144bee6d8',
                 box_shadow: '#D7191A',
                 icon: 'img/vip.png',
             }, {
-                name: '云商城',
-                link: 'https://shop.hao502.com/',
+                name: 'X助手',
+                link: 'https://udid.ios298.cn/',
                 box_shadow: '#F57923',
                 icon: 'img/shangcheng.png',
             }, {
@@ -320,26 +320,26 @@ function check() {
 var d = new Date();
 var time = d.getHours();
 if (time < 24) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 晚上好";
+    document.getElementById("title").innerHTML = "X主页 | 晚上好";
 }
 if (time < 18) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 下午好";
+    document.getElementById("title").innerHTML = "X主页 | 下午好";
 }
 
 if (time < 13) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 中午好";
+    document.getElementById("title").innerHTML = "X主页 | 中午好";
 }
 
 if (time < 12) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 上午好";
+    document.getElementById("title").innerHTML = "X主页 | 上午好";
 }
 
 if (time < 9) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 早上好";
+    document.getElementById("title").innerHTML = "X主页 | 早上好";
 }
 
 if (time < 5) {
-    document.getElementById("title").innerHTML = "Hao502导航简洁版 | 又熬夜了";
+    document.getElementById("title").innerHTML = "X主页 | 又熬夜了";
 }
 //title问候语结束
 
